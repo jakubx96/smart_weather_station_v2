@@ -5,8 +5,8 @@ Arduino and server software for weather condition station. Project allows to mea
 ### Project implementation
 <table>
     <tr>
-        <td align="center"><img src="https://github.com/jakubx6/smart_weather/blob/main/img/inside.jpg" width=200></td>
-        <td align="center"><img  src="https://github.com/jakubx6/smart_weather/blob/main/img/outside.jpg" width=200></td>
+        <td align="center"><img src="https://github.com/jakubx96/smart_weather_station_v2/blob/main/img/inside.jpg" width=200></td>
+        <td align="center"><img  src="https://github.com/jakubx96/smart_weather_station_v2/blob/main/img/outside.jpg" width=200></td>
     </tr>
     <tr>
         <td style="text-align: center">Inside logic platform with sensors and LCD.</a></td>
@@ -33,7 +33,7 @@ Sensors:
 ### Website data diplay
 <table>
     <tr>
-        <td align="center"><img src="https://github.com/jakubx6/smart_weather/blob/main/img/website.jpg" width=200></td>
+        <td align="center"><img src="https://github.com/jakubx96/smart_weather_station_v2/blob/main/img/website1.jpg" width=200></td>
     </tr>
     <tr>
         <td style="text-align: center"><a>Check Website</a></td>
